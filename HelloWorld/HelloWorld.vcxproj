@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="header.cpp" />
+    <ClCompile Include="kkkkk.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HHH.h" />
